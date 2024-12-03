@@ -18,6 +18,10 @@ The app builds upon the TensorFlow Lite Swift/Kotlin examples for utilizing the 
 - **iOS Version**: Fully functional and uses **SwiftUI**.  
 - **Android Version**: Work in Progress (WIP), with planned support for **Jetpack Compose**.  
 
+## iOS Issues  
+
+- **SwiftUI Preview Mode**: Currently, SwiftUI preview mode does not work due to an arm64 architecture issue. However, the project runs without issues on physical devices, and you can use your device to test it.  
+
 ## Installation Requirements  
 
 Please refer to the [TensorFlow Lite Style Transfer example documentation](https://github.com/tensorflow/examples/tree/master/lite/examples/style_transfer) for installation instructions and prerequisites.  
