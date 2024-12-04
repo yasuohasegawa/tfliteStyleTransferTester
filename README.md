@@ -16,7 +16,7 @@ The app builds upon the TensorFlow Lite Swift/Kotlin examples for utilizing the 
 ## Current Status  
 
 - **iOS Version**: Fully functional and uses **SwiftUI**.  
-- **Android Version**: Work in Progress (WIP), with planned support for **Jetpack Compose**.  
+- **Android Version**: Fully functional and uses **Jetpack Compose**.  
 
 ## iOS Issues  
 
